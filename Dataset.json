@@ -1,0 +1,1530 @@
+[
+  {
+    "Drug_Name": "Ibuprofen",
+    "Condition": "Pain and Inflammation",
+    "Symptoms": "Headache, muscle aches, dental pain, fever",
+    "Dosage": "200-400mg every 4-6 hours as needed",
+    "Side_Effects": "Upset stomach, nausea, heartburn",
+    "Warning": "Risk of stomach bleeding; Do not use right before or after heart surgery. Consult a doctor if taking blood thinners."
+  },
+  {
+    "Drug_Name": "Paracetamol (Acetaminophen)",
+    "Condition": "Pain and Fever",
+    "Symptoms": "Headache, fever, backache, toothache",
+    "Dosage": "500-1000mg every 4-6 hours as needed",
+    "Side_Effects": "Rare when taken at recommended dose; possible skin rash",
+    "Warning": "Do not exceed 4000mg in 24 hours. Severe liver damage can occur with overdose. Avoid alcohol."
+  },
+  {
+    "Drug_Name": "Lisinopril",
+    "Condition": "Hypertension (High Blood Pressure)",
+    "Symptoms": "High blood pressure readings, often asymptomatic",
+    "Dosage": "10-40mg once daily",
+    "Side_Effects": "Dizziness, headache, dry cough, fatigue",
+    "Warning": "Can cause a drop in blood pressure. Risk of angioedema (swelling of face/lips). Monitor kidney function."
+  },
+  {
+    "Drug_Name": "Metformin",
+    "Condition": "Type 2 Diabetes",
+    "Symptoms": "High blood sugar, increased thirst, frequent urination",
+    "Dosage": "500-1000mg twice daily with meals",
+    "Side_Effects": "Diarrhea, nausea, abdominal discomfort",
+    "Warning": "Risk of lactic acidosis, especially in patients with kidney problems. Take with food to minimize GI side effects."
+  },
+  {
+    "Drug_Name": "Amoxicillin",
+    "Condition": "Bacterial Infection",
+    "Symptoms": "Sore throat, chest infection, ear infection, skin infection",
+    "Dosage": "250-500mg every 8 hours or 875mg every 12 hours",
+    "Side_Effects": "Nausea, vomiting, diarrhea, rash",
+    "Warning": "Complete the full course of antibiotics. Seek medical attention for severe rash or difficulty breathing (allergic reaction)."
+  },
+  {
+    "Drug_Name": "Sertraline",
+    "Condition": "Depression and Anxiety",
+    "Symptoms": "Low mood, loss of interest, anxiety, panic attacks",
+    "Dosage": "50-200mg once daily",
+    "Side_Effects": "Nausea, headache, insomnia, dizziness",
+    "Warning": "May increase suicidal thoughts in young adults. Do not stop abruptly. Can interact with other medications."
+  },
+  {
+    "Drug_Name": "Amlodipine",
+    "Condition": "Hypertension and Angina",
+    "Symptoms": "High blood pressure, chest pain",
+    "Dosage": "5-10mg once daily",
+    "Side_Effects": "Swelling of ankles/legs, dizziness, flushing, palpitations",
+    "Warning": "Monitor blood pressure regularly. May cause dizziness, so be careful when standing up."
+  },
+  {
+    "Drug_Name": "Atorvastatin",
+    "Condition": "High Cholesterol",
+    "Symptoms": "High cholesterol levels, often asymptomatic",
+    "Dosage": "10-80mg once daily",
+    "Side_Effects": "Muscle pain, headache, diarrhea",
+    "Warning": "Risk of liver problems and muscle damage (rhabdomyolysis). Report unexplained muscle pain to your doctor immediately."
+  },
+  {
+    "Drug_Name": "Risperidone",
+    "Condition": "Schizophrenia",
+    "Symptoms": "Psychosis, hallucinations, delusions",
+    "Dosage": "Varies; typically 2-8mg per day",
+    "Side_Effects": "Stiffness, shuffling gait, resting tremor (extrapyramidal symptoms)",
+    "Warning": "Long-term use can cause parkinsonism. Dosage may need adjustment or switching to a different antipsychotic."
+  },
+  {
+    "Drug_Name": "Warfarin",
+    "Condition": "Atrial Fibrillation / Blood Clot Prevention",
+    "Symptoms": "Irregular heartbeat, prevention of clots",
+    "Dosage": "Varies based on INR monitoring",
+    "Side_Effects": "Increased bruising, bleeding (e.g., blood in stool)",
+    "Warning": "Risk of over-anticoagulation. Requires regular blood tests (INR) to monitor. Many drug and food interactions."
+  },
+  {
+    "Drug_Name": "Aripiprazole",
+    "Condition": "Schizophrenia / Bipolar Disorder",
+    "Symptoms": "Psychosis, mood stabilization",
+    "Dosage": "Varies; typically 10-30mg per day",
+    "Side_Effects": "Akathisia (restlessness, inability to sit still), fidgeting",
+    "Warning": "Akathisia is a common side effect. Dosage may need reduction or addition of another medication to manage side effects."
+  },
+  {
+    "Drug_Name": "Lithium",
+    "Condition": "Bipolar Disorder",
+    "Symptoms": "Mood swings, mania, depression",
+    "Dosage": "Varies based on blood level monitoring",
+    "Side_Effects": "Tremors, gastrointestinal upset, frequent urination (polyuria), thirst (polydipsia)",
+    "Warning": "Risk of lithium toxicity. Requires regular blood tests to monitor levels and kidney function. Can cause diabetes insipidus."
+  },
+  {
+    "Drug_Name": "Phenytoin",
+    "Condition": "Epilepsy",
+    "Symptoms": "Seizures",
+    "Dosage": "Varies based on blood level monitoring",
+    "Side_Effects": "Multiple potential side effects affecting CNS, gums, and bone health.",
+    "Warning": "Known to increase the risk of birth defects. Women planning pregnancy should discuss switching to a safer alternative."
+  },
+  {
+    "Drug_Name": "Isotretinoin",
+    "Condition": "Severe Acne",
+    "Symptoms": "Cystic or nodular acne",
+    "Dosage": "Varies based on weight and severity",
+    "Side_Effects": "Dry skin, chapped lips, potential for mood changes",
+    "Warning": "Associated with mood changes including depression. Patients should be monitored. Highly teratogenic (causes severe birth defects)."
+  },
+  {
+    "Drug_Name": "Turmeric (Curcumin)",
+    "Condition": "Inflammatory Conditions (Adjunct)",
+    "Symptoms": "Joint pain from osteoarthritis, psoriasis symptoms, IBS symptoms",
+    "Dosage": "Varies; used as a supplement or topically",
+    "Side_Effects": "Generally well-tolerated; can cause stomach upset in high doses.",
+    "Warning": "Should be used as an adjunct to standard treatment, not a replacement. Discuss with a doctor to avoid interactions."
+  },
+  {
+    "Drug_Name": "5-alpha reductase inhibitors (e.g., Finasteride)",
+    "Condition": "Benign Prostatic Hyperplasia (BPH)",
+    "Symptoms": "Enlarged prostate, difficulty urinating",
+    "Dosage": "Varies per drug",
+    "Side_Effects": "Decreased libido, erectile dysfunction, ejaculation disorders",
+    "Warning": "Sexual side effects are common. Treatment regimen may need to be reevaluated if side effects are bothersome."
+  },
+  {
+    "Drug_Name": "Alpha-blockers (e.g., Tamsulosin)",
+    "Condition": "Benign Prostatic Hyperplasia (BPH)",
+    "Symptoms": "Enlarged prostate, urinary symptoms",
+    "Dosage": "Varies per drug",
+    "Side_Effects": "Dizziness, fatigue, orthostatic hypotension (drop in blood pressure upon standing)",
+    "Warning": "Can cause low blood pressure. Patients should be advised to stand up slowly."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Henoch-Schönlein purpura (HSP)",
+    "Symptoms": "Joint pain, skin rash, and kidney problems with negative autoimmune tests.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "A small-vessel vasculitis, more common in children but can occur in adults. Diagnosis is usually based on clinical presentation."
+  },
+  {
+    "Drug_Name": "Over-the-counter hydrocortisone cream / Oral antihistamines",
+    "Condition": "Insect bites (mosquito, flea, chiggers)",
+    "Symptoms": "Multiple itchy, red bumps on legs after hiking.",
+    "Dosage": "Apply cream or take antihistamines as needed for itch.",
+    "Side_Effects": "Minimal with short-term use.",
+    "Warning": "Seek medical attention if signs of infection (pus, increasing redness, warmth, or pain) develop."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Weight loss due to Alzheimer's disease",
+    "Symptoms": "Significant weight loss in a patient who forgets to eat.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Implement strategies like meal reminders, easy-to-eat foods, and social mealtimes. Rule out other medical causes for weight loss."
+  },
+  {
+    "Drug_Name": "Proton Pump Inhibitor (PPI)",
+    "Condition": "Gastroesophageal Reflux Disease (GERD) with possible stricture",
+    "Symptoms": "Difficulty swallowing, feeling of a lump in throat, heartburn, chest pain after spicy foods or lying down.",
+    "Dosage": "Standard PPI dose to be initiated.",
+    "Side_Effects": "Generally well-tolerated; long-term use should be monitored.",
+    "Warning": "Difficulty swallowing (dysphagia) is an alarm symptom that warrants an endoscopy to evaluate for complications."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Atrial Fibrillation (AF)",
+    "Symptoms": "Recurrent palpitations and lightheadedness in a patient with a history of panic attacks; ECG shows a rapid, irregular rhythm.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "It's important to distinguish AF from anxiety, as untreated AF can lead to serious complications, including stroke."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Wet age-related macular degeneration (AMD)",
+    "Symptoms": "Sudden central vision loss in the eye of a patient with known dry AMD in the other eye.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Wet AMD often presents with sudden symptoms due to rapid progression from the growth and leakage of new, abnormal blood vessels under the macula."
+  },
+  {
+    "Drug_Name": "ACE inhibitors, beta-blockers, diuretics",
+    "Condition": "Heart failure due to hypertensive heart disease",
+    "Symptoms": "Progressive breathlessness on exertion, signs of left ventricular hypertrophy, and a gallop rhythm in a patient with long-standing hypertension.",
+    "Dosage": "Varies; to be determined after full evaluation.",
+    "Side_Effects": "Varies by medication; includes dizziness, cough (ACE inhibitors), fatigue.",
+    "Warning": "Requires comprehensive evaluation including EKG, chest X-ray, and echocardiogram. Management involves controlling blood pressure and fluid status."
+  },
+  {
+    "Drug_Name": "Sutures and Tetanus Vaccination",
+    "Condition": "Facial Laceration",
+    "Symptoms": "4 cm jagged wound with irregular edges and slight contamination after a fight.",
+    "Dosage": "N/A",
+    "Side_Effects": "Pain, scarring, infection risk.",
+    "Warning": "Wound must be thoroughly irrigated and cleaned. Suturing by a skilled provider is needed for best cosmetic outcome. Tetanus status must be updated."
+  },
+  {
+    "Drug_Name": "Fluconazole",
+    "Condition": "Esophageal candidiasis in an HIV-positive patient",
+    "Symptoms": "Difficulty swallowing and retrosternal chest pain; endoscopy shows white plaques on the esophageal mucosa.",
+    "Dosage": "Standard systemic antifungal course.",
+    "Side_Effects": "Nausea, headache, abdominal pain.",
+    "Warning": "This is an opportunistic infection. The patient's HIV status must be optimally managed to improve immune function."
+  },
+  {
+    "Drug_Name": "Acetaminophen / Antibiotics (conditional)",
+    "Condition": "Acute Otitis Media (AOM)",
+    "Symptoms": "Red, bulging tympanic membrane, fever, irritability, and ear tugging in a 5-month-old infant.",
+    "Dosage": "As per pediatric guidelines.",
+    "Side_Effects": "Varies.",
+    "Warning": "Pain control is essential. Antibiotics are considered based on the severity of symptoms and the child's age. Parents should be educated on signs of worsening infection."
+  },
+  {
+    "Drug_Name": "N/A - Dental Procedure",
+    "Condition": "Localized periodontal disease",
+    "Symptoms": "Red, puffy, and uncomfortable gums around a dental bridge.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Likely due to plaque accumulation. Requires professional cleaning. The patient must be taught how to clean around the bridge properly."
+  },
+  {
+    "Drug_Name": "N/A - Out of Scope",
+    "Condition": "Art Instruction",
+    "Symptoms": "User asked: How do I paint a landscape in oil colors?",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "This question relates to visual arts, which is outside my scope as a medical and psychological AI model. Consult an experienced artist."
+  },
+  {
+    "Drug_Name": "N/A - First Aid",
+    "Condition": "Seizure",
+    "Symptoms": "A person is convulsing and unresponsive in a public place.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Protect the person from injury. Do not restrain them or put anything in their mouth. Once convulsions stop, place them in the recovery position. Call for emergency medical help."
+  },
+  {
+    "Drug_Name": "N/A - Informational",
+    "Condition": "Zika Virus Transmission",
+    "Symptoms": "Patient asks if Zika can be transmitted through casual contact.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Zika virus is not spread through casual contact like shaking hands. Primary transmission is via mosquito bites. It can also be transmitted sexually, from mother to fetus, and through blood transfusion."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Possible Increased Intracranial Pressure",
+    "Symptoms": "Worsening headache over a week, worse in the morning and with bending, associated with nausea and vomiting.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "These symptoms raise concern for a mass lesion (brain tumor) or other causes of increased intracranial pressure. Requires brain imaging, preferably with MRI."
+  },
+  {
+    "Drug_Name": "Bisphosphonates (e.g., Alendronate), Denosumab, Teriparatide",
+    "Condition": "Osteoporosis",
+    "Symptoms": "Diagnosis confirmed via DEXA scan in a healthy, active 78-year-old man.",
+    "Dosage": "As prescribed.",
+    "Side_Effects": "Varies by drug; bisphosphonates can cause GI upset.",
+    "Warning": "Treatment also includes lifestyle modifications: weight-bearing exercise and adequate calcium and vitamin D intake."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Post-Treatment Lyme Disease Syndrome (PTLDS)",
+    "Symptoms": "Memory difficulties, concentration problems, and fatigue persisting six months after treated Lyme disease.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "There is no specific cure. Management is symptomatic and supportive, including CBT, exercise, and a healthy diet."
+  },
+  {
+    "Drug_Name": "Proton Pump Inhibitor (PPI), H2 Blocker",
+    "Condition": "Uncontrolled GERD vs. Pericarditis",
+    "Symptoms": "Worsening heartburn despite daily PPI, plus new chest pain that worsens with deep breaths and lying flat.",
+    "Dosage": "May need to increase PPI dose or add a nighttime H2 blocker.",
+    "Side_Effects": "Varies.",
+    "Warning": "The new chest pain characteristics warrant an EKG and cardiac enzyme tests to rule out cardiac causes like pericarditis before attributing to GERD."
+  },
+  {
+    "Drug_Name": "Intravenous Antibiotics",
+    "Condition": "Lyme Encephalopathy",
+    "Symptoms": "Progressive fatigue, difficulty concentrating, and mood changes a year after treated Lyme disease, with white matter hyperintensities on MRI.",
+    "Dosage": "Standard IV course.",
+    "Side_Effects": "Varies.",
+    "Warning": "This is a rare complication of Lyme disease. A lumbar puncture may be needed to confirm the diagnosis."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Thalassemia",
+    "Symptoms": "Fatigue, weakness, jaundice, low MCV, and target cells on peripheral smear in a patient with a family history of anemia.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Treatment depends on severity but can include regular blood transfusions and chelation therapy to manage iron overload."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Diabetic Retinopathy",
+    "Symptoms": "Blurry vision and signs of retinal damage in a Type 1 diabetic with recent high blood sugar levels.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires optimizing blood glucose control. Refer to an ophthalmologist for possible laser surgery or anti-VEGF injections."
+  },
+  {
+    "Drug_Name": "Antibiotics",
+    "Condition": "Urinary Tract Infection (UTI) complicated by Kidney Stones",
+    "Symptoms": "Lower abdominal pain and dysuria in a patient with a history of recurrent calcium oxalate kidney stones.",
+    "Dosage": "Empirical course, adjusted based on urine culture results.",
+    "Side_Effects": "Varies.",
+    "Warning": "Imaging may be necessary to evaluate for hydronephrosis or an abscess, as the stone can complicate the infection."
+  },
+  {
+    "Drug_Name": "Penicillin",
+    "Condition": "Secondary Syphilis",
+    "Symptoms": "Rash of small red bumps on palms and soles, following a painless ulcer on the penis a few weeks prior.",
+    "Dosage": "Standard regimen for secondary syphilis.",
+    "Side_Effects": "Possible Jarisch-Herxheimer reaction.",
+    "Warning": "Blood tests are needed to confirm the diagnosis. Sexual partners must be informed, tested, and treated."
+  },
+  {
+    "Drug_Name": "Broad-spectrum systemic antibiotics",
+    "Condition": "Penetrating Eye Injury",
+    "Symptoms": "Red, painful eye and decreased vision with a visible foreign body impaling the cornea and iris after an explosion.",
+    "Dosage": "Standard IV course.",
+    "Side_Effects": "Varies.",
+    "Warning": "Ophthalmic emergency. Do not remove the object outside of an operating room. Urgent referral to an ophthalmologist is necessary for surgical management."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Labile Hypertension / Autonomic Dysfunction",
+    "Symptoms": "Frequent episodes of dizziness and fainting with wide variations in blood pressure throughout the day.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Evaluation should include home blood pressure monitoring and possibly a tilt-table test. Management may include medication adjustments."
+  },
+  {
+    "Drug_Name": "N/A - Informational",
+    "Condition": "Disease Prognosis",
+    "Symptoms": "User asks if AI can predict the outcome of a disease.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "AI cannot predict individual disease outcomes. This should always be discussed with a healthcare professional."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Anemia of Chronic Disease",
+    "Symptoms": "Worsening fatigue, pallor, and dizziness with normal serum iron studies.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Common in individuals with chronic illnesses. The underlying condition often leads to alterations in iron metabolism causing anemia."
+  },
+  {
+    "Drug_Name": "High-potency topical corticosteroids, Antihistamines",
+    "Condition": "Lichen Simplex Chronicus",
+    "Symptoms": "Chronic itchy lesions on lower legs appearing as small, raised bumps and patches of thickened skin.",
+    "Dosage": "Apply cream as directed.",
+    "Side_Effects": "Skin thinning with prolonged corticosteroid use.",
+    "Warning": "Treatment involves breaking the itch-scratch cycle. Antihistamines can help reduce itching, especially at night."
+  },
+  {
+    "Drug_Name": "Oseltamivir (Neuraminidase inhibitor)",
+    "Condition": "Influenza exacerbating COPD",
+    "Symptoms": "Worsening cough and shortness of breath with fever and malaise in an elderly patient with COPD.",
+    "Dosage": "Standard course for influenza treatment.",
+    "Side_Effects": "Nausea, vomiting.",
+    "Warning": "Antiviral therapy should be started as soon as possible. A chest x-ray is needed to rule out superimposed bacterial pneumonia."
+  },
+  {
+    "Drug_Name": "N/A - Out of Scope",
+    "Condition": "Cooking Instruction",
+    "Symptoms": "User asked: How do I make a cup of authentic Italian espresso at home?",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "This is a culinary question, which is outside my scope as a medical AI. Consult a professional barista."
+  },
+  {
+    "Drug_Name": "N/A - Dental Procedure / Antibiotics (conditional)",
+    "Condition": "Smoking-Associated Periodontitis",
+    "Symptoms": "Red, swollen gums that bleed easily in a long-term smoker.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires professional cleaning and education on oral hygiene. The patient must be strongly advised to quit smoking."
+  },
+  {
+    "Drug_Name": "Topical or Oral Antifungal",
+    "Condition": "Candida Paronychia",
+    "Symptoms": "Multiple, painful red and swollen nail folds in a patient on long-term corticosteroid therapy.",
+    "Dosage": "As prescribed.",
+    "Side_Effects": "Varies.",
+    "Warning": "Long-term corticosteroid use is a risk factor. The patient's corticosteroid therapy may need to be reviewed."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Lumbar Spinal Stenosis",
+    "Symptoms": "Leg pain that intensifies with walking or standing but is relieved by leaning forward or sitting.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires imaging (X-ray or MRI) to confirm. Treatment ranges from physical therapy and medication to epidural steroid injections or surgery."
+  },
+  {
+    "Drug_Name": "N/A - Orthopedic Management",
+    "Condition": "Scaphoid Fracture",
+    "Symptoms": "Pain on the thumb side of the wrist and difficulty gripping after a fall onto an outstretched hand.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Can sometimes be missed on initial X-rays. If suspicion is high, immobilize in a thumb spica splint and follow-up for repeat imaging."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Autism Spectrum Disorder (ASD)",
+    "Symptoms": "A 2-year-old boy does not respond to his name, is not using words, shows little interest in others, and has repetitive behaviors.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "These are potential signs of ASD. Early evaluation by a specialist is crucial as early intervention can make a significant difference."
+  },
+  {
+    "Drug_Name": "N/A - Surgical Emergency",
+    "Condition": "Cauda Equina Syndrome",
+    "Symptoms": "Lower back pain radiating down the leg with a new loss of bladder control.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "This is a medical emergency that requires immediate surgical intervention to prevent permanent nerve damage."
+  },
+  {
+    "Drug_Name": "Corticosteroid eye drops",
+    "Condition": "Iritis or Uveitis in Crohn's Disease",
+    "Symptoms": "Painful vision loss, red eye with a small pupil, and inflammation inside the eye in a patient with Crohn's disease.",
+    "Dosage": "As prescribed by an ophthalmologist.",
+    "Side_Effects": "Increased intraocular pressure, cataracts with long-term use.",
+    "Warning": "This is an extraintestinal manifestation of IBD. Requires urgent referral to an ophthalmologist."
+  },
+  {
+    "Drug_Name": "N/A - Psychosocial Treatment",
+    "Condition": "Negative Symptoms of Schizophrenia",
+    "Symptoms": "Decreased motivation, blunted affect, and impaired social functioning despite control of positive symptoms.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "These symptoms often do not respond well to antipsychotics. Evidence-based psychosocial treatments like CBT and social skills training are beneficial."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Cerebellar Ataxia post-chickenpox",
+    "Symptoms": "Difficulty walking and unsteadiness in a child who just recovered from chickenpox.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "This is a known complication of chickenpox. Requires urgent neurologic evaluation, including neuroimaging, to rule out other causes."
+  },
+  {
+    "Drug_Name": "N/A - Multidisciplinary Management",
+    "Condition": "Pathological Fracture",
+    "Symptoms": "Acute onset of severe thigh pain after a minor fall in a patient with a history of breast cancer.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Cancers can metastasize to bone, weakening it. Requires X-rays and further evaluation for metastatic disease by oncology and orthopedics."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Friedreich's Ataxia",
+    "Symptoms": "Progressive leg weakness, balance problems, and sensory loss with a positive family history.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "An autosomal recessive genetic disorder. Requires genetic testing to confirm and a multidisciplinary team for management."
+  },
+  {
+    "Drug_Name": "N/A - Lifestyle Changes",
+    "Condition": "Menopausal Weight Gain",
+    "Symptoms": "Sudden weight gain around the midsection in a woman who has not had a period in 12 months.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Likely due to hormonal changes. Recommended lifestyle changes include a balanced diet and regular exercise."
+  },
+  {
+    "Drug_Name": "Antiviral therapy, Immunosuppressive therapy",
+    "Condition": "Nephrotic Syndrome secondary to Hepatitis B",
+    "Symptoms": "Shortness of breath, edema, low serum albumin, high serum creatinine, and high urinary protein in a patient with chronic Hepatitis B.",
+    "Dosage": "As prescribed by a specialist.",
+    "Side_Effects": "Varies.",
+    "Warning": "Requires a kidney biopsy to confirm the diagnosis."
+  },
+  {
+    "Drug_Name": "N/A - Psychotherapy",
+    "Condition": "Post-Traumatic Stress Disorder (PTSD)",
+    "Symptoms": "Difficulty sleeping with nightmares about having another heart attack after a recent MI.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "The patient might benefit from psychological therapy, such as Cognitive-Behavioral Therapy (CBT). Referral to a mental health professional is appropriate."
+  },
+  {
+    "Drug_Name": "Anticoagulation",
+    "Condition": "Pulmonary Embolism (PE) in Pregnancy",
+    "Symptoms": "Sudden-onset shortness of breath and chest pain, with calf pain and swelling in a woman at 36 weeks gestation.",
+    "Dosage": "Standard therapeutic dose.",
+    "Side_Effects": "Bleeding.",
+    "Warning": "Pregnancy is a risk factor for PE. Requires immediate stabilization and diagnostic testing (CTPA or VQ scan)."
+  },
+  {
+    "Drug_Name": "N/A - Supportive Care",
+    "Condition": "Bacillus cereus gastroenteritis",
+    "Symptoms": "Sudden onset diarrhea, vomiting, and abdominal cramps 16 hours after eating rice and pasta at a buffet.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Management is mainly supportive with rehydration. Symptoms usually resolve within 24 hours."
+  },
+  {
+    "Drug_Name": "Anti-inflammatory medications, Colchicine",
+    "Condition": "Pericarditis",
+    "Symptoms": "Shortness of breath and chest discomfort with a pericardial friction rub on exam, following a severe respiratory infection.",
+    "Dosage": "As prescribed.",
+    "Side_Effects": "GI upset.",
+    "Warning": "Requires diagnosis confirmation with an echocardiogram and ECG."
+  },
+  {
+    "Drug_Name": "N/A - Procedure-focused",
+    "Condition": "Spontaneous Intracranial Hypotension (CSF Leak)",
+    "Symptoms": "Severe headache that is significantly worse when standing up and improves when lying down.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires neuroimaging (MRI). May need an epidural blood patch procedure for treatment."
+  },
+  {
+    "Drug_Name": "Proton Pump Inhibitor (PPI)",
+    "Condition": "Gastroesophageal Reflux Disease (GERD)",
+    "Symptoms": "Burning pain in the middle of the chest after meals and a sour taste in the mouth upon waking.",
+    "Dosage": "Standard 8-week course.",
+    "Side_Effects": "Generally well-tolerated.",
+    "Warning": "If symptoms persist, evaluation with endoscopy or ambulatory pH probe tests may be necessary."
+  },
+  {
+    "Drug_Name": "Lipid-lowering medications (Statins)",
+    "Condition": "Familial Hypercholesterolemia",
+    "Symptoms": "Yellowish patches (xanthomas) over knees in a child with a family history of high cholesterol.",
+    "Dosage": "As prescribed by a lipid specialist.",
+    "Side_Effects": "Muscle pain, liver problems.",
+    "Warning": "Early treatment is essential to prevent premature cardiovascular disease. Requires referral to a specialist."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Chronic Traumatic Encephalopathy (CTE)",
+    "Symptoms": "Slurred speech and problems with coordination in a professional boxer with a history of knockouts and concussions.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "A progressive degenerative disease of the brain from repetitive brain trauma. Requires evaluation by a neurologist."
+  },
+  {
+    "Drug_Name": "SSRIs or Hormone Therapy (conditional)",
+    "Condition": "Perimenopausal Anxiety and Panic Attacks",
+    "Symptoms": "Anxiety, panic attacks, irregular periods, and hot flashes in a 51-year-old woman.",
+    "Dosage": "Varies.",
+    "Side_Effects": "Varies.",
+    "Warning": "Likely due to hormonal fluctuations. Cognitive-behavioral therapy, relaxation techniques, and exercise can also help."
+  },
+  {
+    "Drug_Name": "Mood Stabilizers",
+    "Condition": "Bipolar Disorder",
+    "Symptoms": "Alternating periods of extremely high energy with decreased need for sleep and episodes of feeling very down and uninterested.",
+    "Dosage": "As prescribed by a psychiatrist.",
+    "Side_Effects": "Varies widely depending on the specific medication.",
+    "Warning": "Requires a thorough psychiatric evaluation. Treatment typically involves a combination of medication and psychotherapy."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Kidney Stone with possible BPH",
+    "Symptoms": "Sudden severe flank pain, vomiting, and blood in urine, with difficulty passing urine and a weak stream.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires a non-contrast CT scan to confirm the stone. A prostate exam should also be considered due to urinary symptoms."
+  },
+  {
+    "Drug_Name": "Paracetamol, Analgesics, Intra-articular injections",
+    "Condition": "Knee Osteoarthritis",
+    "Symptoms": "Increasing difficulty going up and down stairs in a patient with a history of knee OA.",
+    "Dosage": "As needed for pain.",
+    "Side_Effects": "Varies.",
+    "Warning": "If mobility is significantly affected despite conservative measures, physical therapy is beneficial. Total knee replacement is an option for severe cases."
+  },
+  {
+    "Drug_Name": "N/A - Emergency Management",
+    "Condition": "Bipolar Disorder, Depressive Episode with Suicidal Ideation",
+    "Symptoms": "Lack of energy, feeling worthless, and suicidal ideation in a patient with Bipolar Disorder.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Warrants immediate intervention. A comprehensive safety evaluation is the first step. Hospitalization may be necessary."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Liver Metastases",
+    "Symptoms": "Multiple hypodense lesions in the liver on a CT scan of a patient with a history of colon cancer.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Highly concerning for metastatic cancer. Requires further characterization with MRI or contrast-enhanced CT, and possibly biopsy."
+  },
+  {
+    "Drug_Name": "Aspirin, Nitroglycerin",
+    "Condition": "Acute Coronary Syndrome (ACS) / Myocardial Infarction",
+    "Symptoms": "Sudden, severe chest pain radiating to the left arm, with pallor and profuse sweating in a patient with high cholesterol.",
+    "Dosage": "Immediate administration as per emergency protocols.",
+    "Side_Effects": "Hypotension (nitroglycerin), bleeding (aspirin).",
+    "Warning": "Medical emergency requiring immediate intervention, including EKG and blood tests, possibly followed by coronary angiography."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Alcoholic Liver Disease vs. Non-Alcoholic Fatty Liver Disease (NAFLD)",
+    "Symptoms": "Right upper quadrant pain, nausea, vomiting, and abnormal liver function tests in a patient with Type 2 diabetes and heavy alcohol use.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires imaging (ultrasound or CT) to evaluate the liver. Management includes abstaining from alcohol and controlling blood glucose."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Alcoholic Liver Disease",
+    "Symptoms": "Right upper quadrant pain with an AST/ALT ratio of 2 in a patient with a history of alcohol abuse.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "The AST/ALT ratio > 2 is suggestive of this diagnosis. Further investigation may involve imaging and an alcohol intervention program."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Brain Mass (Tumor or Abscess)",
+    "Symptoms": "Enhancing mass in the left frontal lobe on a CT scan of a woman with recent severe headaches.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires further imaging (MRI) and referral to neurosurgery for possible biopsy or resection."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Diabetes Mellitus",
+    "Symptoms": "Frequent urination, thirst, and increased appetite with an elevated fasting blood glucose in a patient with BPH.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "While some symptoms overlap with BPH, the combination strongly suggests newly developed diabetes. Requires further evaluation."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Knee Osteoarthritis (OA)",
+    "Symptoms": "Progressively worsening knee pain, worse with walking, with morning stiffness lasting about 15 minutes.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Diagnosis is supported by clinical exam and X-rays showing joint space narrowing and osteophytes."
+  },
+  {
+    "Drug_Name": "N/A - Surgical Management",
+    "Condition": "Cholesteatoma",
+    "Symptoms": "Intermittent ear pain, decreased hearing, and a chalky white mass behind the tympanic membrane.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "A skin cyst that grows in the middle ear. Requires evaluation by an otolaryngologist as surgical removal is usually necessary."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Generalized Anxiety Disorder (GAD)",
+    "Symptoms": "Chronic worry, restlessness, feeling 'on edge', and trouble sleeping for over four months.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Characterized by long-lasting anxiety that is not focused on any one object or situation."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Medial Tibial Stress Syndrome (Shin Splints)",
+    "Symptoms": "Pain on the inner side of the shin that worsens during running and improves with rest.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "An overuse injury. Initial treatment includes rest, ice, and pain relievers. If symptoms persist, rule out a stress fracture."
+  },
+  {
+    "Drug_Name": "Oral antibiotics, Surgical methods (laser, electrosurgery)",
+    "Condition": "Rhinophyma (a manifestation of phymatous rosacea)",
+    "Symptoms": "Constantly red, swollen nose that is changing in appearance in a patient with a history of rosacea.",
+    "Dosage": "Varies.",
+    "Side_Effects": "Varies.",
+    "Warning": "This condition can lead to disfigurement of the nose due to excess tissue growth."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Pancreatic Cancer",
+    "Symptoms": "Persistent abdominal pain, weight loss, and jaundice in a patient with a history of chronic pancreatitis.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "This is a serious concern in patients with chronic pancreatitis. Requires imaging (CT or MRI) to evaluate for a mass."
+  },
+  {
+    "Drug_Name": "Artemisinin-based combination therapy (ACT)",
+    "Condition": "Chloroquine-resistant Malaria",
+    "Symptoms": "Recurring symptoms of fever, chills, and headaches after being treated for malaria with chloroquine.",
+    "Dosage": "Standard course for resistant malaria.",
+    "Side_Effects": "Varies.",
+    "Warning": "Requires re-testing for malaria and treatment with a different antimalarial effective against resistant strains."
+  },
+  {
+    "Drug_Name": "Antihistamines, Decongestants, Nasal corticosteroid sprays",
+    "Condition": "Seasonal Allergic Rhinitis (Hay Fever)",
+    "Symptoms": "Watery eyes, runny nose, and sneezing that worsens during spring and summer.",
+    "Dosage": "As needed for symptoms.",
+    "Side_Effects": "Drowsiness (some antihistamines), nasal irritation.",
+    "Warning": "If symptoms are severe, referral to an allergist for potential allergen immunotherapy could be considered."
+  },
+  {
+    "Drug_Name": "NSAIDs, Analgesics, Epidural steroid injections",
+    "Condition": "Sciatica",
+    "Symptoms": "Pain starting in the buttock and radiating down the calf, described as a burning sensation that intensifies when sitting.",
+    "Dosage": "As needed for pain.",
+    "Side_Effects": "Varies.",
+    "Warning": "Treatment is usually conservative with physical therapy. Surgery is considered if conservative measures fail."
+  },
+  {
+    "Drug_Name": "Diuretics, ACE inhibitors/ARBs, Beta-blockers",
+    "Condition": "Heart Failure",
+    "Symptoms": "Fatigue, shortness of breath, swollen legs, and elevated jugular venous pressure in a patient with a history of CHD.",
+    "Dosage": "Varies; guided by heart failure guidelines.",
+    "Side_Effects": "Varies by medication.",
+    "Warning": "Requires confirmation with an echocardiogram and blood tests for BNP levels."
+  },
+  {
+    "Drug_Name": "NSAIDs, Anticoagulation (conditional)",
+    "Condition": "Superficial Thrombophlebitis",
+    "Symptoms": "A painful, swollen, red, and tender area on the leg surrounding a varicose vein.",
+    "Dosage": "As needed for pain.",
+    "Side_Effects": "Bleeding risk with anticoagulants.",
+    "Warning": "Requires a Doppler ultrasound to confirm. Anticoagulation therapy is considered if the clot is close to the deep venous system."
+  },
+  {
+    "Drug_Name": "Petroleum Jelly (as an alternative to antibiotic ointment)",
+    "Condition": "Abrasion with Neomycin Allergy",
+    "Symptoms": "An abrasion on a patient with a known allergy to Neomycin.",
+    "Dosage": "Apply a thin layer.",
+    "Side_Effects": "Minimal.",
+    "Warning": "The patient should avoid antibiotic ointments containing neomycin and use a simple protectant. Watch for signs of infection."
+  },
+  {
+    "Drug_Name": "Fluoxetine (SSRI)",
+    "Condition": "SSRI-induced Erectile Dysfunction",
+    "Symptoms": "Problems getting an erection that started after beginning a new medication for depression.",
+    "Dosage": "N/A - requires adjustment",
+    "Side_Effects": "Erectile dysfunction.",
+    "Warning": "The timing suggests a drug-induced side effect. A discussion about potential medication adjustments with the prescribing psychiatrist is needed."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Sciatica due to Herniated Lumbar Disc",
+    "Symptoms": "Low back pain radiating down the right leg with weakness when lifting the foot in a construction worker.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires a physical examination and possibly imaging like an MRI to confirm the diagnosis."
+  },
+  {
+    "Drug_Name": "Intravenous Bisphosphonates (e.g., zoledronic acid), Denosumab",
+    "Condition": "Osteoporosis with intolerance to oral bisphosphonates",
+    "Symptoms": "Persistent heartburn in a patient taking alendronate for osteoporosis.",
+    "Dosage": "Varies.",
+    "Side_Effects": "Varies.",
+    "Warning": "If a patient cannot tolerate oral bisphosphonates, they may be switched to an intravenous form or a different class of medication."
+  },
+  {
+    "Drug_Name": "N/A - Management Protocol",
+    "Condition": "Concussion Recovery",
+    "Symptoms": "A soccer player who suffered a concussion wants to return to play after feeling back to normal.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "A graduated return-to-play protocol is essential to ensure safety, even if the player feels asymptomatic. Clearance by a healthcare professional is required."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Ruptured Ovarian Cyst",
+    "Symptoms": "Severe lower abdominal pain after sexual intercourse in a patient with a history of ovarian cysts.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires an ultrasound of the pelvis to confirm the diagnosis. Pain management and gynecology consultation may be needed."
+  },
+  {
+    "Drug_Name": "Antibiotics",
+    "Condition": "Recurrent / Complicated Urinary Tract Infection (UTI)",
+    "Symptoms": "Persistent UTI symptoms in an elderly female despite multiple courses of antibiotics.",
+    "Dosage": "Guided by urine culture and sensitivity.",
+    "Side_Effects": "Varies.",
+    "Warning": "May indicate an antibiotic-resistant infection or an underlying issue like bladder dysfunction or a kidney stone. Further investigation with imaging may be warranted."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Frontotemporal Dementia",
+    "Symptoms": "Progressive memory loss with more prominent personality changes, apathy, and loss of interest.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Distinguished from Alzheimer's by the prominence of behavioral and language changes over memory loss initially. Requires neuroimaging and neuropsychological testing."
+  },
+  {
+    "Drug_Name": "N/A - Laser Procedure",
+    "Condition": "Posterior Capsule Opacification (PCO) / Secondary Cataract",
+    "Symptoms": "Blurred vision in an eye one month after successful cataract surgery.",
+    "Dosage": "N/A",
+    "Side_Effects": "Minimal.",
+    "Warning": "A common complication. Treated with a simple laser procedure called YAG capsulotomy. Requires referral to an ophthalmologist."
+  },
+  {
+    "Drug_Name": "Hepatitis B immune globulin and Hepatitis B vaccine (for infant)",
+    "Condition": "Hepatitis B in Pregnancy",
+    "Symptoms": "Asymptomatic pregnant woman tests positive for Hepatitis B surface antigen.",
+    "Dosage": "Administered to infant within 12 hours of birth.",
+    "Side_Effects": "Varies.",
+    "Warning": "To prevent mother-to-child transmission. The mother requires further testing to assess the need for antiviral therapy during pregnancy."
+  },
+  {
+    "Drug_Name": "NSAIDs, Colchicine, Corticosteroids",
+    "Condition": "Gout",
+    "Symptoms": "Sudden severe pain, redness, and swelling in the big toe, waking the patient from sleep.",
+    "Dosage": "For acute attack management.",
+    "Side_Effects": "Varies.",
+    "Warning": "Diagnosis is confirmed by joint aspiration showing urate crystals. Long-term management involves lifestyle changes and possibly medication to lower uric acid."
+  },
+  {
+    "Drug_Name": "Antibiotics, Antivirals (conditional)",
+    "Condition": "Urinary Tract Infection (UTI) with possible Herpes Simplex",
+    "Symptoms": "Dysuria, frequency, and fever with ulcers on the foreskin in a diabetic patient.",
+    "Dosage": "Varies.",
+    "Side_Effects": "Varies.",
+    "Warning": "Requires urinalysis and culture for UTI, and swabs from ulcers to test for STIs. Diabetic patients are at risk for more severe infections."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Irritable Bowel Syndrome with Diarrhea (IBS-D)",
+    "Symptoms": "Frequent bouts of diarrhea after meals, with intermittent abdominal cramps and bloating, without red flag symptoms.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Diagnosis is clinical but it's important to rule out other causes like food intolerances or infections."
+  },
+  {
+    "Drug_Name": "Bisphosphonate therapy",
+    "Condition": "Vertebral Compression Fracture due to Osteoporosis",
+    "Symptoms": "Sudden severe back pain after lifting, decreased height, and upper back curvature in a heavy smoker and drinker.",
+    "Dosage": "As prescribed.",
+    "Side_Effects": "GI upset.",
+    "Warning": "Requires imaging (X-ray or MRI) to confirm. Lifestyle modifications including smoking and alcohol cessation are crucial."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Fibromyalgia with Pelvic Pain",
+    "Symptoms": "Chronic pelvic pain and painful menstruation in a patient with fibromyalgia.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "May be due to increased pain sensitivity of fibromyalgia. Treatment should aim at any underlying gynecological cause and include pain management."
+  },
+  {
+    "Drug_Name": "N/A - Non-pharmacological Interventions",
+    "Condition": "Restless Legs Syndrome (RLS)",
+    "Symptoms": "Patient is interested in non-drug treatments for RLS.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Regular exercise, good sleep hygiene, and avoiding caffeine/alcohol can help. Leg massages or hot baths may provide relief."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Lung Cancer",
+    "Symptoms": "A 2cm mass in the right lung on a CT scan of a long-term smoker.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Primary concern is lung cancer. Requires further characterization with a PET scan and likely a biopsy to confirm."
+  },
+  {
+    "Drug_Name": "Broad-spectrum antibiotics",
+    "Condition": "Acute Diverticulitis with possible Perforation",
+    "Symptoms": "Severe left lower quadrant pain, nausea, fever, and involuntary guarding on exam.",
+    "Dosage": "Standard IV course.",
+    "Side_Effects": "Varies.",
+    "Warning": "This is a medical emergency requiring immediate fluid resuscitation and urgent surgical consultation."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Alcoholic Gastritis or Pancreatitis",
+    "Symptoms": "Persistent nausea, vomiting, and upper abdominal pain in a patient with a history of heavy alcohol use.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires blood tests (liver enzymes, amylase/lipase) and imaging. Alcohol cessation counseling is crucial."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Normal Pressure Hydrocephalus (NPH)",
+    "Symptoms": "Increasing forgetfulness, difficulty finding his way around, and difficulty controlling urine.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "A form of dementia. Neuroimaging (CT or MRI) is useful to identify enlarged brain ventricles."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Medication Management in Alzheimer's Disease",
+    "Symptoms": "A patient with Alzheimer's has started forgetting to take his medications.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Use a pill organizer, reminders (alarms/charts), and consider caregiver administration. Simplify regimen if possible."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Hypothyroidism / PCOS",
+    "Symptoms": "Irregular periods, difficulty getting pregnant, constipation, dry skin, and hair loss.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Symptoms could suggest hypothyroidism or another hormonal imbalance. Requires thyroid function tests."
+  },
+  {
+    "Drug_Name": "Aspirin",
+    "Condition": "Myocardial Infarction (Heart Attack)",
+    "Symptoms": "Sudden onset of severe, crushing chest pain radiating to the left arm and jaw, with shortness of breath and nausea.",
+    "Dosage": "Immediate administration as per emergency protocols.",
+    "Side_Effects": "Bleeding.",
+    "Warning": "This is a medical emergency. Immediate steps include administering aspirin and preparing for reperfusion therapy."
+  },
+  {
+    "Drug_Name": "N/A - Dental Hygiene",
+    "Condition": "Gingivitis",
+    "Symptoms": "Gums that bleed easily during brushing, with inflammation and redness.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "The earliest stage of periodontal disease. Requires professional dental cleaning and reinforcing good oral hygiene practices."
+  },
+  {
+    "Drug_Name": "NSAIDs",
+    "Condition": "Lumbar Osteoarthritis or Degenerative Disc Disease",
+    "Symptoms": "Deep, aching back pain that is worse after activity and improves with rest, without radiation or neurological symptoms.",
+    "Dosage": "As needed for pain.",
+    "Side_Effects": "GI upset, kidney problems with long-term use.",
+    "Warning": "Diagnosis is confirmed with imaging (X-ray or MRI). Treatment includes lifestyle modifications and physical therapy."
+  },
+  {
+    "Drug_Name": "N/A - Burn Care",
+    "Condition": "Second-Degree Burn",
+    "Symptoms": "Deep red, painful, and dry skin on the arm after exposure to a heating pad for several hours.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Initial treatment involves cooling the area and covering with a non-stick bandage. Seek medical attention for evaluation and pain management."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Vestibular Migraine",
+    "Symptoms": "An episode of vertigo lasting a few minutes, followed by a severe headache in a patient with no prior migraine history.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires a headache diary for symptom tracking and consideration of neuroimaging to exclude other causes."
+  },
+  {
+    "Drug_Name": "Antifungal medication (conditional)",
+    "Condition": "Coccidioidomycosis (Valley Fever)",
+    "Symptoms": "High fever, cough, and pleuritic chest pain after a trip to Arizona.",
+    "Dosage": "As prescribed if treatment is necessary.",
+    "Side_Effects": "Varies.",
+    "Warning": "A fungal infection endemic to the southwestern US. Requires chest X-ray and serological testing. Treatment depends on severity."
+  },
+  {
+    "Drug_Name": "Corticosteroid nasal sprays, Oral corticosteroids (short course)",
+    "Condition": "Chronic Nasal Congestion with Nasal Polyps",
+    "Symptoms": "Persistent blocked nose and loss of smell in a patient with a history of hay fever.",
+    "Dosage": "As prescribed.",
+    "Side_Effects": "Nasal irritation.",
+    "Warning": "If medication is ineffective, surgical removal of the polyps may be required."
+  },
+  {
+    "Drug_Name": "Intravenous Antibiotics",
+    "Condition": "Neurologic Lyme Disease",
+    "Symptoms": "Double vision and unsteady gait four months after having Lyme disease.",
+    "Dosage": "Standard IV course.",
+    "Side_Effects": "Varies.",
+    "Warning": "Suggests neurologic complications. Requires detailed neurologic exam and possibly neuroimaging or lumbar puncture."
+  },
+  {
+    "Drug_Name": "N/A - Emergency Management",
+    "Condition": "Subarachnoid Hemorrhage",
+    "Symptoms": "Sudden onset of severe headache, vomiting, and decreased level of consciousness, with neck stiffness and photophobia.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "A type of stroke. Immediate actions include stabilization and a CT scan of the brain to confirm."
+  },
+  {
+    "Drug_Name": "Prophylaxis for STIs and Pregnancy",
+    "Condition": "Sexual Assault",
+    "Symptoms": "A patient presents with signs of physical trauma and reports being sexually assaulted.",
+    "Dosage": "As per medical protocols.",
+    "Side_Effects": "Varies.",
+    "Warning": "First ensure the patient's immediate safety. Involve a trained forensic examiner. Offer resources for psychological support."
+  },
+  {
+    "Drug_Name": "Topical Estrogen Therapy, Non-hormonal lubricants",
+    "Condition": "Atrophic Vaginitis (Menopause)",
+    "Symptoms": "Vaginal dryness and discomfort during sexual intercourse in a woman who has not had a period for one year.",
+    "Dosage": "As prescribed.",
+    "Side_Effects": "Minimal with topical use.",
+    "Warning": "Due to decreased estrogen levels associated with menopause."
+  },
+  {
+    "Drug_Name": "Ampicillin",
+    "Condition": "Listeriosis",
+    "Symptoms": "Fever, headache, muscle aches, and diarrhea that started 3 days after eating a sandwich with deli meats.",
+    "Dosage": "Standard course for listeriosis.",
+    "Side_Effects": "Rash, diarrhea.",
+    "Warning": "A foodborne illness. Requires confirmation with blood cultures."
+  },
+  {
+    "Drug_Name": "Acyclovir",
+    "Condition": "Eczema Herpeticum (a complication of chickenpox)",
+    "Symptoms": "Widespread and intensely itchy chickenpox rash in a child with a history of eczema.",
+    "Dosage": "As per pediatric guidelines.",
+    "Side_Effects": "Nausea, vomiting.",
+    "Warning": "Broken and inflamed skin increases the risk of secondary bacterial infection. Requires prompt evaluation by a healthcare professional."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Pulmonary Embolism with Persistent Hypoxia",
+    "Symptoms": "A patient continues to have low oxygen levels despite receiving anticoagulation for a PE.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "May indicate a large clot burden or a recurrent PE. Requires reassessment, possibly with repeat imaging, and consultation with a specialist."
+  },
+  {
+    "Drug_Name": "Turmeric (Curcumin) supplement",
+    "Condition": "Chronic Dyspepsia",
+    "Symptoms": "Chronic indigestion where serious gastrointestinal pathology has been ruled out.",
+    "Dosage": "Varies; used as a supplement.",
+    "Side_Effects": "Can cause stomach upset in high doses.",
+    "Warning": "Can be used as an adjunct to diet modification and stress management."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Type 2 Diabetes Mellitus",
+    "Symptoms": "Excessive thirst, frequent urination, and blurred vision with normal fasting glucose but elevated triglycerides.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires a glucose tolerance test and HbA1c measurement for a definitive diagnosis."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Hypothyroidism",
+    "Symptoms": "Slowed thinking, difficulty with memory, depression, feeling cold, and a hoarse voice.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires ordering serum TSH and free T4 levels to diagnose."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Hemorrhoidal Disease with Perianal Irritation",
+    "Symptoms": "Soiling underwear, discomfort sitting, and excoriated skin around the anus in a patient with a history of hemorrhoids.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Treatment involves managing the hemorrhoids and using gentle cleaning and barrier creams for the skin irritation."
+  },
+  {
+    "Drug_Name": "N/A - Surgical Management",
+    "Condition": "Displaced Nasal Fracture",
+    "Symptoms": "Nasal pain, swelling, and bruising around the eyes, with the nose appearing deviated after a physical altercation.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires a CT scan to assess the severity. May require surgical intervention to realign the nasal bones."
+  },
+  {
+    "Drug_Name": "N/A - Safety Measures",
+    "Condition": "Wandering in Alzheimer's Disease",
+    "Symptoms": "A patient with moderate Alzheimer's has started wandering off and getting lost.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "A dangerous behavior. Ensure the home is secure, use a GPS tracking device or ID bracelet, and inform neighbors."
+  },
+  {
+    "Drug_Name": "N/A - Supportive Care",
+    "Condition": "Acute Bronchitis",
+    "Symptoms": "A week-long history of cough (worse at night), mild fever, and a runny nose in a 5-year-old child.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Management is supportive, including hydration and a humidifier. Antibiotics are generally not indicated."
+  },
+  {
+    "Drug_Name": "Metformin, Weight loss drugs, Bariatric surgery (conditional)",
+    "Condition": "Weight Management in PCOS",
+    "Symptoms": "A woman with PCOS is struggling to manage her weight despite trying several diets.",
+    "Dosage": "Varies.",
+    "Side_Effects": "Varies.",
+    "Warning": "Weight management can be challenging due to insulin resistance. A registered dietitian can provide individualized advice."
+  },
+  {
+    "Drug_Name": "High-dose Corticosteroids",
+    "Condition": "Giant Cell Arteritis (GCA)",
+    "Symptoms": "New-onset severe headache, scalp tenderness, and jaw pain when eating in a patient with rheumatoid arthritis.",
+    "Dosage": "Immediate high dose.",
+    "Side_Effects": "Multiple, including mood changes, increased blood sugar, weight gain.",
+    "Warning": "This is a medical emergency that can lead to blindness. Steroids should be started immediately if GCA is suspected, even before biopsy confirmation."
+  },
+  {
+    "Drug_Name": "N/A - Emergency Procedure",
+    "Condition": "Traumatic Pneumothorax",
+    "Symptoms": "Shortness of breath and chest pain with decreased breath sounds on one side after being hit in the chest with a baseball.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires supplemental oxygen and preparation for chest decompression with a chest tube."
+  },
+  {
+    "Drug_Name": "Aspirin, Nitroglycerin",
+    "Condition": "ST-Elevation Myocardial Infarction (STEMI)",
+    "Symptoms": "Severe chest pain, shortness of breath, pallor, and diaphoresis with ST-segment elevation on ECG.",
+    "Dosage": "Immediate administration as per emergency protocols.",
+    "Side_Effects": "Hypotension (nitroglycerin), bleeding (aspirin).",
+    "Warning": "A life-threatening type of heart attack. The patient should be prepared for immediate reperfusion therapy (PCI)."
+  },
+  {
+    "Drug_Name": "Antipsychotic medication",
+    "Condition": "Schizophrenia",
+    "Symptoms": "Auditory hallucinations, social withdrawal, anhedonia, and a decline in academic function.",
+    "Dosage": "As prescribed by a psychiatrist.",
+    "Side_Effects": "Varies widely.",
+    "Warning": "Requires a full psychiatric evaluation and lab tests to rule out organic causes of psychosis."
+  },
+  {
+    "Drug_Name": "NSAIDs",
+    "Condition": "Shoulder Osteoarthritis",
+    "Symptoms": "Dull, aching right shoulder pain that worsens with activity, with decreased range of motion and crepitus.",
+    "Dosage": "As needed for pain.",
+    "Side_Effects": "GI upset, kidney problems with long-term use.",
+    "Warning": "Conservative management includes rest and physical therapy. Shoulder joint replacement is an option for severe cases."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Pulmonary Embolism (PE)",
+    "Symptoms": "Sudden onset shortness of breath and sharp, pleuritic chest pain in a patient with a history of hypertension and smoking.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires immediate evaluation including EKG, chest X-ray, and D-dimer test. A CT pulmonary angiography may be needed if PE is strongly suspected."
+  },
+  {
+    "Drug_Name": "N/A - First Aid",
+    "Condition": "Fracture",
+    "Symptoms": "A man falls from a ladder and has severe pain in his leg, which is visibly deformed and angulated.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Do not attempt to realign the bone. Immobilize the leg as it is. Call for emergency medical help."
+  },
+  {
+    "Drug_Name": "Metformin, Fertility treatments (conditional)",
+    "Condition": "Polycystic Ovary Syndrome (PCOS)",
+    "Symptoms": "Irregular menstrual periods, difficulty getting pregnant, and increased hair growth on the face and abdomen.",
+    "Dosage": "Varies.",
+    "Side_Effects": "GI upset (metformin).",
+    "Warning": "Requires hormonal studies and a pelvic ultrasound. Lifestyle modifications are the first line of treatment."
+  },
+  {
+    "Drug_Name": "N/A - Surgical Management",
+    "Condition": "Biliary Colic (from Gallstones)",
+    "Symptoms": "Right upper quadrant and shoulder pain that comes and goes, usually after meals, with bloating and indigestion.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires an abdominal ultrasound to confirm gallstones. The patient might benefit from cholecystectomy (gallbladder removal)."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Whiplash Injury",
+    "Symptoms": "Neck pain and stiffness after a rear-end car collision, with no neurological deficits.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Initial management includes reassurance, pain control, and encouraging normal neck movement as tolerated."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Sensory Deficits (Hearing and Vision Impairment)",
+    "Symptoms": "A 4-month-old infant not making eye contact or responding to loud noises.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires audiological assessment and an ophthalmologic evaluation. Early intervention services should be initiated."
+  },
+  {
+    "Drug_Name": "N/A - Informational / HPV Vaccine",
+    "Condition": "Human Papillomavirus (HPV) Infection",
+    "Symptoms": "A patient is worried about her risk for cervical cancer after a recent HPV diagnosis.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Reassure the patient that not all women with HPV develop cervical cancer. Regular Pap smears are key for early detection. The HPV vaccine is recommended."
+  },
+  {
+    "Drug_Name": "Proton Pump Inhibitor (PPI)",
+    "Condition": "GERD-induced Chronic Cough",
+    "Symptoms": "Chronic cough with occasional heartburn, where pulmonary causes have been ruled out.",
+    "Dosage": "Standard trial course.",
+    "Side_Effects": "Generally well-tolerated.",
+    "Warning": "Cough can be an atypical symptom of GERD. If symptoms persist, diagnostic tests like endoscopy may be necessary."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Retinal Artery Occlusion (a type of stroke)",
+    "Symptoms": "Sudden loss of vision in one eye, described as a 'curtain coming down', in a patient with hypertension and hyperlipidemia.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires urgent ophthalmological examination and neuroimaging to evaluate for other signs of stroke."
+  },
+  {
+    "Drug_Name": "Antiviral treatment (e.g., Oseltamivir)",
+    "Condition": "Influenza",
+    "Symptoms": "An adult patient who received the flu shot presents with typical flu symptoms.",
+    "Dosage": "Standard course.",
+    "Side_Effects": "Nausea, vomiting.",
+    "Warning": "The flu vaccine is not 100% effective. Antiviral treatment can be considered, particularly if the patient is at high risk for complications."
+  },
+  {
+    "Drug_Name": "Oral Antibiotics",
+    "Condition": "Secondary Bacterial Skin Infection of Chickenpox",
+    "Symptoms": "Some chickenpox spots have become red, swollen, and are discharging pus.",
+    "Dosage": "Standard course.",
+    "Side_Effects": "Varies.",
+    "Warning": "Can occur when blisters become infected from scratching. Requires evaluation by a healthcare professional."
+  },
+  {
+    "Drug_Name": "Antipsychotics (low-dose, as a last resort)",
+    "Condition": "Agitation and Aggression in Alzheimer's Disease",
+    "Symptoms": "A patient with Alzheimer's becomes increasingly agitated and occasionally aggressive towards his caregiver.",
+    "Dosage": "Lowest effective dose for the shortest duration.",
+    "Side_Effects": "Significant risks in this population, including increased mortality.",
+    "Warning": "Non-pharmacological strategies should be tried first. Rule out underlying medical issues like pain or infection."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Lateral Epicondylitis (Tennis Elbow)",
+    "Symptoms": "Pain in the outer part of the elbow that worsens with lifting, with a 'burning' sensation and tenderness.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "An overuse injury common in activities involving repetitive arm and wrist motions."
+  },
+  {
+    "Drug_Name": "Triptans, NSAIDs, Beta-blockers, Tricyclic antidepressants",
+    "Condition": "Migraines",
+    "Symptoms": "Recurrent episodes of moderate to severe throbbing, unilateral headache, with nausea, vomiting, and sensitivity to light and sound.",
+    "Dosage": "Triptans/NSAIDs for acute attacks; others for prophylaxis.",
+    "Side_Effects": "Varies widely.",
+    "Warning": "Treatment involves a combination of lifestyle changes, acute symptom control, and possibly prophylactic medication."
+  },
+  {
+    "Drug_Name": "N/A - Surgical Emergency",
+    "Condition": "Small Bowel Obstruction",
+    "Symptoms": "A CT scan shows a dilated, fluid-filled stomach and proximal duodenum, with the distal duodenum collapsed.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires immediate consultation with general surgery."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Renal Cell Carcinoma / Kidney Stones",
+    "Symptoms": "Flank pain, hematuria, recent unintentional weight loss, and fatigue.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires a thorough evaluation including blood tests and imaging studies like a renal ultrasound or CT scan."
+  },
+  {
+    "Drug_Name": "N/A - Orthopedic Management",
+    "Condition": "Scoliosis (stable curve near skeletal maturity)",
+    "Symptoms": "A 13-year-old girl with a stable 28-degree curve who had her first period six months ago.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "If the curve is stable and less than 30 degrees at skeletal maturity, bracing can typically be discontinued."
+  },
+  {
+    "Drug_Name": "Ursodeoxycholic acid",
+    "Condition": "Intrahepatic Cholestasis of Pregnancy (ICP)",
+    "Symptoms": "Severe itching on palms and soles without a rash at 37 weeks gestation, with elevated serum bile acids.",
+    "Dosage": "As prescribed.",
+    "Side_Effects": "Diarrhea.",
+    "Warning": "Can pose risks to the fetus. Delivery is typically planned around 37 weeks."
+  },
+  {
+    "Drug_Name": "Anticoagulant medication",
+    "Condition": "Pulmonary Embolism (PE) - Post-discharge",
+    "Symptoms": "A patient is being discharged after being treated for a PE.",
+    "Dosage": "Varies; duration is typically 3 months to lifelong.",
+    "Side_Effects": "Bleeding.",
+    "Warning": "The patient must be educated on the signs of bleeding and the importance of regular follow-up."
+  },
+  {
+    "Drug_Name": "N/A - First Aid",
+    "Condition": "Scorpion Sting",
+    "Symptoms": "Severe pain, redness, and swelling on the foot after being stung by a scorpion.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Wash the sting, apply ice, and use over-the-counter pain medications. Seek immediate medical attention if systemic symptoms develop, as antivenom may be needed."
+  },
+  {
+    "Drug_Name": "N/A - Surgical Management",
+    "Condition": "Primary Hyperparathyroidism",
+    "Symptoms": "Recurrent kidney stones, back pain, and hypercalcemia with an elevated PTH level.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires imaging of the parathyroid glands. The patient may need parathyroid surgery."
+  },
+  {
+    "Drug_Name": "High-flow oxygen, Sumatriptan, Verapamil (preventative)",
+    "Condition": "Cluster Headache",
+    "Symptoms": "Unilateral, throbbing headaches with redness and tearing of the eye during the headache episodes.",
+    "Dosage": "Oxygen/Sumatriptan for acute attacks; Verapamil for prevention.",
+    "Side_Effects": "Varies.",
+    "Warning": "A severe type of headache. Preventative treatments are often necessary."
+  },
+  {
+    "Drug_Name": "N/A - Out of Scope",
+    "Condition": "Computer Optimization",
+    "Symptoms": "User asked: How can I optimize my computer's performance for gaming?",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "This question pertains to computer hardware and software, not medicine. Consult a computer technician."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Glucose-6-Phosphate Dehydrogenase (G6PD) Deficiency",
+    "Symptoms": "Fatigue, weakness, jaundice, and hemolytic anemia after a bacterial infection.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Diagnosis is confirmed with a G6PD enzyme activity assay. Management involves avoiding known triggers (certain drugs, foods, illnesses)."
+  },
+  {
+    "Drug_Name": "Hormonal treatments",
+    "Condition": "Thoracic Endometriosis Syndrome",
+    "Symptoms": "Cyclical chest pain and shortness of breath occurring around the time of the menstrual cycle, with normal lung function tests.",
+    "Dosage": "Varies.",
+    "Side_Effects": "Varies.",
+    "Warning": "A rare form of endometriosis. Diagnosis is challenging and may require advanced imaging or surgery."
+  },
+  {
+    "Drug_Name": "N/A - Orthopedic Emergency",
+    "Condition": "Shoulder Dislocation or Fracture",
+    "Symptoms": "Sudden severe shoulder pain, limited range of motion, and deformity after lifting a heavy object.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires immediate pain control and imaging (X-ray) to diagnose. If dislocated, it needs to be reduced."
+  },
+  {
+    "Drug_Name": "N/A - Out of Scope",
+    "Condition": "Art Instruction",
+    "Symptoms": "User asked: How can I improve my photography skills?",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "This is a creative field, not a medical topic. Consult professional photographers."
+  },
+  {
+    "Drug_Name": "N/A - Psychotherapy",
+    "Condition": "Illness Anxiety Disorder (Hypochondriasis)",
+    "Symptoms": "Intense fear of having a serious illness despite no or mild symptoms and medical reassurance.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Cognitive-behavioral therapy (CBT) has shown effectiveness in managing this disorder."
+  },
+  {
+    "Drug_Name": "N/A - Dietary Advice",
+    "Condition": "Vegetarian and Lactose Intolerant",
+    "Symptoms": "A patient is struggling to meet protein needs.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Recommend protein-rich plant foods like beans, lentils, tofu, and quinoa. Lactose-free dairy products or protein powders are also options."
+  },
+  {
+    "Drug_Name": "N/A - Surgical Excision / Mohs surgery",
+    "Condition": "Basal Cell Carcinoma (BCC)",
+    "Symptoms": "A shiny, translucent nodule with overlying telangiectasias on the nose.",
+    "Dosage": "N/A",
+    "Side_Effects": "Scarring.",
+    "Warning": "The most common type of skin cancer. Requires a skin biopsy to confirm the diagnosis."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Sjögren's Syndrome",
+    "Symptoms": "Dry eyes and a dry mouth in a patient with fibromyalgia.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "An autoimmune condition often seen with fibromyalgia. Can also be a side effect of medication. Requires evaluation."
+  },
+  {
+    "Drug_Name": "Hormonal contraception, Metformin",
+    "Condition": "Polycystic Ovary Syndrome (PCOS)",
+    "Symptoms": "Pelvic pain, irregular menses, and ultrasound showing multiple small peripheral follicles and increased ovarian volume.",
+    "Dosage": "Varies.",
+    "Side_Effects": "Varies.",
+    "Warning": "Requires hormonal studies to confirm. Management often involves lifestyle modifications and medication."
+  },
+  {
+    "Drug_Name": "N/A - Surgical Management",
+    "Condition": "Nasal Fracture",
+    "Symptoms": "Pain, swelling, and deformity of the nasal bridge after a fight.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires imaging (X-ray or CT) and an otolaryngology consult for definitive treatment."
+  },
+  {
+    "Drug_Name": "N/A - Diagnosis-focused",
+    "Condition": "Hypothyroidism",
+    "Symptoms": "Severe fatigue, decreased appetite, weight gain, constipation, dry skin, slow heart rate, and decreased reflexes.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires thyroid function tests to diagnose."
+  },
+  {
+    "Drug_Name": "Analgesics, Muscle relaxants",
+    "Condition": "Whiplash Injury with Sleep Disturbance",
+    "Symptoms": "Pain at the back of the head, neck stiffness, and difficulty sleeping after a sudden stop on a bus.",
+    "Dosage": "As needed for pain.",
+    "Side_Effects": "Drowsiness.",
+    "Warning": "The difficulty sleeping could be due to pain or a post-traumatic stress response. Physical therapy can be beneficial."
+  },
+  {
+    "Drug_Name": "Anticoagulation",
+    "Condition": "Pulmonary Embolism (PE)",
+    "Symptoms": "Acute shortness of breath, chest pain, and coughing up blood in a patient with high cholesterol.",
+    "Dosage": "Standard therapeutic dose.",
+    "Side_Effects": "Bleeding.",
+    "Warning": "Requires a CT pulmonary angiogram to confirm. Immediate anticoagulation is typically necessary."
+  },
+  {
+    "Drug_Name": "N/A - Surgical Emergency",
+    "Condition": "Hip Fracture",
+    "Symptoms": "Inability to bear weight on the left leg due to severe hip pain after a slip, with the leg appearing shortened and externally rotated.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Highly suggestive of a femoral neck fracture in a patient with osteoporosis. Requires pelvic X-rays and orthopedic consultation."
+  },
+  {
+    "Drug_Name": "Antibiotics, Tetanus Prophylaxis",
+    "Condition": "Puncture Wound (Face)",
+    "Symptoms": "A deep, actively bleeding puncture wound on the cheek from a piece of glass.",
+    "Dosage": "Varies.",
+    "Side_Effects": "Varies.",
+    "Warning": "Requires controlling the bleeding and immediate consultation with a plastic surgeon to minimize scarring."
+  },
+  {
+    "Drug_Name": "Over-the-counter antibiotic ointment",
+    "Condition": "Abrasion",
+    "Symptoms": "An abrasion on the lower leg from a slide tackle on a grass field.",
+    "Dosage": "Apply a thin layer.",
+    "Side_Effects": "Minimal.",
+    "Warning": "Clean the wound gently. Keep an eye on it for signs of infection."
+  },
+  {
+    "Drug_Name": "High-dose steroids",
+    "Condition": "Temporal Arteritis (Giant Cell Arteritis)",
+    "Symptoms": "New-onset headache with jaw claudication and visual disturbances in a patient over 50.",
+    "Dosage": "Immediate high dose.",
+    "Side_Effects": "Multiple.",
+    "Warning": "A serious condition that can cause blindness if not treated promptly. Steroids should be started immediately if suspected."
+  },
+  {
+    "Drug_Name": "Diuretics",
+    "Condition": "Cor Pulmonale (Right-Sided Heart Failure) in COPD",
+    "Symptoms": "Ankle swelling, increased shortness of breath, and fatigue in a patient with COPD.",
+    "Dosage": "As prescribed to manage fluid.",
+    "Side_Effects": "Dehydration, electrolyte imbalance.",
+    "Warning": "A complication of COPD. Requires an echocardiogram to evaluate heart function."
+  },
+  {
+    "Drug_Name": "Anticoagulation",
+    "Condition": "Pulmonary Embolism (PE) in Lupus",
+    "Symptoms": "Acute dyspnea, chest pain, and calf pain/swelling in a patient with a history of lupus and an elevated D-dimer.",
+    "Dosage": "Standard therapeutic dose.",
+    "Side_Effects": "Bleeding.",
+    "Warning": "Lupus is a risk factor for thromboembolic events. Requires immediate anticoagulation and diagnostic imaging (CTPA)."
+  },
+  {
+    "Drug_Name": "Topical antifungal or antibacterial creams (if infected)",
+    "Condition": "Intertrigo",
+    "Symptoms": "A persistent rash in skin folds, with erythematous, moist lesions and some maceration in a patient with obesity.",
+    "Dosage": "Apply as directed.",
+    "Side_Effects": "Minimal.",
+    "Warning": "Management involves keeping the area dry. Weight loss is beneficial in preventing recurrence."
+  },
+  {
+    "Drug_Name": "N/A - Informational",
+    "Condition": "AI Accuracy",
+    "Symptoms": "User asks: How accurate are your responses?",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "AI responses are general and should not replace professional medical advice. Consult a healthcare professional for health concerns."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Acute Pancreatitis from Hypertriglyceridemia",
+    "Symptoms": "Severe epigastric pain radiating to the back, nausea, and vomiting with elevated amylase and lipase in a patient with a history of high triglycerides.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires fluid resuscitation, pain control, and addressing the hypertriglyceridemia to prevent recurrence."
+  },
+  {
+    "Drug_Name": "Trimethoprim-sulfamethoxazole",
+    "Condition": "Pneumocystis jirovecii pneumonia (PJP)",
+    "Symptoms": "Non-productive cough, fever, and shortness of breath with low oxygen saturation in a patient with HIV.",
+    "Dosage": "Standard course for PJP treatment.",
+    "Side_Effects": "Rash, nausea, bone marrow suppression.",
+    "Warning": "Requires hospitalization and empiric treatment. Diagnosis is confirmed by identifying the organism in respiratory specimens."
+  },
+  {
+    "Drug_Name": "VariZIG (varicella zoster immune globulin)",
+    "Condition": "Chickenpox Exposure in Pregnancy (Non-immune)",
+    "Symptoms": "A pregnant woman is exposed to chickenpox and is unsure of her immunity.",
+    "Dosage": "Administered as post-exposure prophylaxis within 10 days of exposure.",
+    "Side_Effects": "Local pain at injection site.",
+    "Warning": "Requires serology testing to evaluate for varicella immunity first. The varicella vaccine is a live vaccine and is contraindicated in pregnancy."
+  },
+  {
+    "Drug_Name": "N/A - Emergency Management",
+    "Condition": "Spinal Cord Injury",
+    "Symptoms": "Sudden severe back pain, loss of motor function below the waist, and loss of bladder control after a motor vehicle accident.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "This is a medical emergency. Immediate steps involve stabilizing the patient's spine and getting imaging (CT scan)."
+  },
+  {
+    "Drug_Name": "Proton Pump Inhibitor (PPI)",
+    "Condition": "Gastroesophageal Reflux Disease (GERD)",
+    "Symptoms": "Persistent heartburn and acid regurgitation despite antacids, with a new chronic cough.",
+    "Dosage": "Standard trial course.",
+    "Side_Effects": "Generally well-tolerated.",
+    "Warning": "If symptoms persist or there are alarm symptoms (e.g., weight loss), an upper endoscopy is indicated."
+  },
+  {
+    "Drug_Name": "Topical antifungal creams",
+    "Condition": "Angular Cheilitis",
+    "Symptoms": "A dry, red, cracking rash at the corners of the mouth in a patient undergoing chemotherapy.",
+    "Dosage": "Apply as directed.",
+    "Side_Effects": "Minimal.",
+    "Warning": "Can be caused by Candida infection, which is more common in immunocompromised individuals."
+  },
+  {
+    "Drug_Name": "N/A - Surgical Management",
+    "Condition": "Hypertrophic Pyloric Stenosis",
+    "Symptoms": "Projectile vomiting after each feeding, progressive worsening, and a palpable 'olive-like' mass in a 1-month-old infant.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Requires confirmation with an abdominal ultrasound, followed by surgical correction (pyloromyotomy)."
+  },
+  {
+    "Drug_Name": "N/A - Management Strategy",
+    "Condition": "Irritable Bowel Syndrome (IBS)",
+    "Symptoms": "Alternating constipation and diarrhea, lower abdominal pain, and bloating for several months, often worse with stress.",
+    "Dosage": "N/A",
+    "Side_Effects": "N/A",
+    "Warning": "Due to the patient's age (55), a colonoscopy might be recommended to rule out more serious conditions. Addressing stress is important."
+  }
+]
